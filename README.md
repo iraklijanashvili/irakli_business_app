@@ -1,20 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Irakli's Business Website
+
+A modern business website built with Next.js and Tailwind CSS.
+
+## Features
+
+- Responsive design for all devices
+- Dark mode support
+- Modern UI components
+- Fast loading and performance
+- SEO optimized
+
+## Technologies Used
+
+- Next.js
+- React
+- Tailwind CSS
+- Material UI Icons
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
-npm run dev
-# or
+# Install dependencies
+yarn install
+
+# Run development server
 yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Created by
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Irakli Janashvili, 2025
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
